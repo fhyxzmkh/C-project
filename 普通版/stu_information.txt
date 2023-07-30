@@ -1,0 +1,11 @@
+001 aaa 1
+002 bbb 1
+003 ccc 1
+004 ddd 2
+005 eee 2
+006 fff 3
+007 ggg 4
+008 hhh 4
+009 iii 1
+010 jjj 2
+011 kkk 1

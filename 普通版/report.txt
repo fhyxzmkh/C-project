@@ -1,0 +1,12 @@
+学号            姓名            课程            授课教师        时间            考勤状态       
+001             aaa             c               yxc             2023.6          2              
+002             bbb             java            asd             2023.7          4              
+003             ccc             html            jdk             2023.3          3              
+004             ddd             c               yxc             2023.6          1              
+005             eee             c++             sdk             2023.5          3              
+006             fff             c++             sdk             2023.5          4              
+007             ggg             java            asd             2023.7          1              
+008             hhh             python          kok             2023.4          2              
+009             iii             python          kok             2023.4          1              
+010             jjj             c               yxc             2023.6          2              
+011             kkk             java            asd             2023.7          1              
